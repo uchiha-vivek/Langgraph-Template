@@ -16,6 +16,7 @@ list_of_files = [
     f"{project_name}/nodes/call_weather.py",
     f"{project_name}/nodes/determine_intent.py",
     f"{project_name}/nodes/generate_response.py",
+    f"{project_name}/nodes/router.py"
     f"{project_name}/tools/__init__.py",
     f"{project_name}/tools/news.py",
     f"{project_name}/tools/weather.py",
