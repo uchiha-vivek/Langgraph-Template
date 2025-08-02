@@ -8,7 +8,7 @@ This project is a **modular LangGraph-based agentic system** built with [LangCha
 
 The goal of this project is to demonstrate how **AI agents** can be combined with **external tools** and orchestrated using **LangGraph's workflow-based graph**. Specifically, it:
 - The following projects involves conditional wokflows with LangGraph
-- It includes two tool -- **Weather Tool** and **News tool** and they work conditionally
+- It includes two tool -- **Weather Tool** ,**News tool** and **User Info tool** and they work conditionally
 - Either of the one is triggered according to the intent of the **Human Response**
 - Makes use of **LangChain's agentic tooling** and **LangGraph's conditional flows**
 
