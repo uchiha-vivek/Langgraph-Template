@@ -19,12 +19,12 @@ The goal of this project is to demonstrate how **AI agents** can be combined wit
 
 Clone the repository
 ```bash
-git clone https://github.com/uchiha-vivek/LangGraph-conditional-Workflow.git
+git clone https://github.com/uchiha-vivek/Langgraph-Template.git
 ```
 
 Navigate to the directory
 ```bash
-cd LangGraph-conditional-Workflow
+cd Langgraph-Template
 ```
 
 Make virtual environment (Here for Windows)
